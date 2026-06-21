@@ -1,6 +1,6 @@
 # ai-dotfiles
 
-Claude Code と GitHub Copilot の個人設定置き場。
+Claude Code と GitHub Copilot の設定ファイル置き場。
 
 ## セットアップ
 
