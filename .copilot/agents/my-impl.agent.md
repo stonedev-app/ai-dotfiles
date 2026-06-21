@@ -1,7 +1,6 @@
 ---
 name: my-impl
-description: "実装セッション用エージェント。"
-argument-hint: "実装したいタスクの短い説明"
+description: "実装セッション用エージェント"
 ---
 
 - コメントは日本語で書く。
