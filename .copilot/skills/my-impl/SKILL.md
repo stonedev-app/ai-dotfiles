@@ -1,6 +1,6 @@
 ---
 name: my-impl
-description: "実装セッション用エージェント"
+description: 実装セッション用のルールを適用する
 ---
 
 - コメントは日本語で書く。
